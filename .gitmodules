@@ -1,0 +1,3 @@
+[submodule "Plugins/FireUtil"]
+	path = Plugins/FireUtil
+	url = https://github.com/firestack/FireUtil.git
