@@ -3,6 +3,3 @@
 #include "VRTest.h"
 #include "VRPlayerController.h"
 
-
-
-
